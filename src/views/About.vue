@@ -11,7 +11,7 @@
 // @ is an alias to /src
 
 export default {
-  name: "home",
+  name: "about",
   components: {},
   data: function() {
     return {};
