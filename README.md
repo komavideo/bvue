@@ -4,6 +4,9 @@
 ## Bootstrap Vue
 
 ~~~bash
-npm install vue bootstrap-vue bootstrap --save
+npm install
 ~~~
 
+## 介绍视频(Youtube)
+
+https://youtu.be/FhfgimPCysM
